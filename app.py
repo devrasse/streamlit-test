@@ -1,7 +1,7 @@
 import streamlit as st
 
 # HTML 파일을 읽어오기
-with open("./jesulham.html", "r",  encoding="utf-8") as f:
+with open("./jeseul.html", "r",  encoding="utf-8") as f:
     html_code = f.read()
 
 # Stremlit 앱에 HTML 표시
