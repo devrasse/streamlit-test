@@ -97,3 +97,5 @@ with left_column:
 
 with right_column:
     st.empty()
+
+#https://blog.streamlit.io/introducing-theming/
